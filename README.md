@@ -16,7 +16,7 @@ The repository demonstrates test analysis, test-suite organization, reusable tes
 
 ---
 
-## 📌 About the project
+## About the project
 
 This project tests the public website [www.bzenec.cz](https://www.bzenec.cz/) through a combination of:
 
@@ -31,7 +31,7 @@ The goal is to demonstrate different software-testing strategies while keeping t
 
 ---
 
-## ✨ Project highlights
+## Project highlights
 
 - Manual and automated web testing
 - Browser automation with Robot Framework and SeleniumLibrary
@@ -45,7 +45,7 @@ The goal is to demonstrate different software-testing strategies while keeping t
 
 ---
 
-## 🧰 Technology stack
+## Technology stack
 
 | Area | Technology |
 |---|---|
@@ -59,7 +59,7 @@ The goal is to demonstrate different software-testing strategies while keeping t
 
 ---
 
-## 📁 Repository structure
+## Repository structure
 
 ```text
 WebTesting/
@@ -94,7 +94,7 @@ WebTesting/
 
 ---
 
-## 🧪 Testing approach
+## Testing approach
 
 ### Manual testing
 
@@ -132,7 +132,7 @@ Verify Main Heading
 
 ---
 
-## 🚀 Getting started
+## Getting started
 
 ### Prerequisites
 
@@ -194,7 +194,7 @@ run_tests.bat
 
 ---
 
-## 🏷️ Running selected tests
+## Running selected tests
 
 Robot Framework tags make it possible to run only a selected group of tests.
 
@@ -218,7 +218,7 @@ robot --outputdir Automated/results Automated
 
 ---
 
-## 📊 Test results
+## Test results
 
 Robot Framework normally generates:
 
@@ -245,7 +245,7 @@ Automated/results/log.html
 
 ---
 
-## 🧱 Object Repository
+## Object Repository
 
 Reusable test resources are stored in `Automated/objectRepository`.
 
@@ -264,7 +264,7 @@ This structure reduces duplication and makes locator maintenance easier.
 
 ---
 
-## 📝 Test documentation
+## Test documentation
 
 The repository includes `Specifikace_testu.docx`, which provides detailed project and testing documentation.
 
@@ -279,7 +279,7 @@ The documentation complements the executable tests by describing areas such as:
 
 ---
 
-## 🔧 Possible improvements
+## Possible improvements
 
 - Add a `requirements.txt` file
 - Add cross-platform execution scripts
@@ -294,6 +294,6 @@ The documentation complements the executable tests by describing areas such as:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Developed by [apolkova](https://github.com/apolkova) for the **AP4ST – Software Testing** course at Tomas Bata University in Zlín.
